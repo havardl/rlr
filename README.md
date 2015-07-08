@@ -4,7 +4,7 @@ Developed in 24 hours during Secret Life of Objects course week 1 of the IDP at 
 More info: http://ciid.dk/education/portfolio/idp15/courses/secret-life-of-objects/random-logic-radio/
 
 ## Running demo
-![Demo](/main.gif)
+![ScreenShot](/main.gif)
 
 ## Logic
 1. Pick a random verb from the most popular article on New York Times at the moment
